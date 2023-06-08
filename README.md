@@ -1,3 +1,7 @@
+## Why this fork?
+
+This fork is a lua version of the original project.
+
 ## Introduction
 
 Gruvbox Material is a modified version of [Gruvbox](https://github.com/morhetz/gruvbox), the contrast is adjusted to be softer in order to protect developers' eyes.
